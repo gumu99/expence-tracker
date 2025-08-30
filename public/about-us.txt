@@ -1,0 +1,43 @@
+Expense Tracker Application
+
+Welcome to our comprehensive expense tracking solution!
+
+ABOUT THIS PROJECT
+This application was built to help individuals manage their personal finances with ease and insight. Our goal is to provide a simple yet powerful tool for tracking income, expenses, and financial patterns.
+
+FEATURES
+• Real-time balance tracking
+• Transaction categorization
+• Visual spending analytics
+• Smart financial alerts
+• CSV data export
+• Responsive mobile-first design
+• Local data storage for privacy
+
+DEVELOPMENT TEAM
+[Add your developer names here]
+
+Lead Developer: [Your Name Here]
+UI/UX Designer: [Designer Name Here]
+Backend Developer: [Backend Dev Name Here]
+Quality Assurance: [QA Name Here]
+
+TECHNICAL STACK
+• React 18 with TypeScript
+• Tailwind CSS for styling
+• Recharts for data visualization
+• Lucide React for icons
+• Radix UI components
+• Local Storage for data persistence
+
+VISION
+We believe that everyone deserves access to powerful financial tools that help them make informed decisions about their money. This application represents our commitment to creating software that truly serves users' needs.
+
+CONTACT
+For questions, suggestions, or contributions, please reach out to our development team.
+
+Thank you for using our Expense Tracker!
+
+---
+Last Updated: [Current Date]
+Version: 1.0.0
